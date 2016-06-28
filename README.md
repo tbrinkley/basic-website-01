@@ -1,2 +1,3 @@
 # basic-website-01
-# Basic website for students to copy.
+
+This is a basic two-page HTML template website for students to start.
